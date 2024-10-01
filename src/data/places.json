@@ -1,0 +1,24 @@
+{
+    "places": [
+        {
+            "name": "Hem",
+            "latitude": 56.02753617662663,
+            "longitude": 12.744251383151914
+        },
+        {
+            "name": "Kulla",
+            "latitude": 56.110674129706666,
+            "longitude": 12.617595652489264
+        },
+        {
+            "name": "Värsjö",
+            "latitude": 56.335878930896385,
+            "longitude": 13.433296035057749
+        },
+        {
+            "name": "La Duquesa, Estepona",
+            "latitude": 36.35317045144123,
+            "longitude": -5.238305609412884
+        }
+    ]
+}
